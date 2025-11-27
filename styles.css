@@ -3,5 +3,5 @@ body{
    background: gainsboro;
 }
 header{
-   
+   border-bottom: solid 2px rgb(rgb(0, 255, 0));
 }
