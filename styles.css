@@ -16,3 +16,9 @@ header{
    display: flex;
    justify-content: center;
 }
+.categorias_videos{
+   display: flex;
+   overflow-x: auto;
+   gap: 15px;
+
+}
